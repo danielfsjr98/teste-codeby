@@ -16,21 +16,23 @@ You will also see any lint errors in the console.
 
 ## Web Desktop Application
 
-![image-20210622160930350](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622160930350.png)
+![alt text](https://i.ibb.co/LR9ct4w/1.jpg)
 
-![image-20210622160947530](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622160947530.png)
+![alt text](https://i.ibb.co/1qnwqGq/2.jpg)
 
-![image-20210622161009132](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161009132.png)
+![alt text](https://i.ibb.co/kHY520H/3.jpg)
 
 
 
 ## Web Mobile Application
 
-![image-20210622161051893](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161051893.png)
+![alt text](https://i.ibb.co/XCj8Wp5/1.jpg)
 
-![image-20210622161118612](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161118612.png)
+![alt text](https://i.ibb.co/6yhVBdc/2.jpg)
 
-![image-20210622161130086](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161130086.png)
+![alt text](https://i.ibb.co/6yhVBdc/2.jpg)
+
+![alt text](https://i.ibb.co/RN8hyHL/3.jpg)
 
 
 
