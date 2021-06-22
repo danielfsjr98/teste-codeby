@@ -30,8 +30,6 @@ You will also see any lint errors in the console.
 
 ![alt text](https://i.ibb.co/6yhVBdc/2.jpg)
 
-![alt text](https://i.ibb.co/6yhVBdc/2.jpg)
-
 ![alt text](https://i.ibb.co/RN8hyHL/3.jpg)
 
 
