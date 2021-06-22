@@ -14,6 +14,26 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Web Desktop Application
+
+![image-20210622160930350](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622160930350.png)
+
+![image-20210622160947530](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622160947530.png)
+
+![image-20210622161009132](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161009132.png)
+
+
+
+## Web Mobile Application
+
+![image-20210622161051893](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161051893.png)
+
+![image-20210622161118612](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161118612.png)
+
+![image-20210622161130086](C:\Users\danie\AppData\Roaming\Typora\typora-user-images\image-20210622161130086.png)
+
+
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
